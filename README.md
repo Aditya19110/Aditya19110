@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Kulkarni</h1>
-<h3 align="center">🌟 Enthusiastic Computer Science student with a fervent passion for exploring and mastering emerging technologies! 🚀💻</h3>
+<h3 align="center">🌟 Technology is anything that wasn't around when you were born.🚀💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya19110&label=Profile%20views&color=0e75b6&style=flat" alt="aditya19110" /> </p>
 
