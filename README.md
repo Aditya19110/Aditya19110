@@ -1,13 +1,11 @@
-![logo](https://github.com/Aditya19110/Aditya19110/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aditya Kulkarni</h1>
 <h3 align="center">🌟 Enthusiastic Computer Science student with a fervent passion for exploring and mastering emerging technologies! 🚀💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya19110&label=Profile%20views&color=0e75b6&style=flat" alt="aditya19110" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
-
 - 📫 How to reach me **kulkarniaditya262@gmail.com**
-<img align=“right” alt=“code” width=“400” src=“”>
+<img align="right" alt="code" width="400" src="https://github.com/Aditya19110/Aditya19110/blob/main/gh.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aditya191103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya191103" height="30" width="40" /></a>
